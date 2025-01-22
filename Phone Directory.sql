@@ -1,0 +1,7 @@
+SELECT TOP (1000) [UserID]
+      ,[FirstName]
+      ,[LastName]
+      ,[PhoneNumber]
+      ,[Address]
+      ,[Email]
+  FROM [master].[dbo].[Users]
